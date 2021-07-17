@@ -7,3 +7,5 @@ Stave Churches are a particular kind of wooden building that was common in north
 Exploiting a VAE, we aim to start from spoilt data and filter out the heating events, in such a way as to recreate the natural climate of the church.
 
 In detail, the notebooks in the repository are
+- `data_preprocessing`: exploration of the dataset and discussion over the possibility of enlarging the training set
+- `VAE_implementation`: the actual implementation of the model with different architectures
